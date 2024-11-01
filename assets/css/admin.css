@@ -1,0 +1,19 @@
+.iump-payment-box.ump_paystack-active{
+    background-color: rgb(9, 165, 219);
+}
+.iump-ump_paystack-box .icon-paystack-logo:before {
+    content: "\e712";
+    font-size:70px !important;
+    display: table-cell !important;
+    vertical-align: middle !important;
+      text-align: center !important;
+}
+.iump-ump_paystack-info-box{
+  padding: 15px;
+  margin-bottom: 20px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  color: #3c763d;
+  background-color: #cce5ff;
+  border-color: #b8daff;
+}

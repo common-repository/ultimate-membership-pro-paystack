@@ -1,0 +1,206 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Membership Pro - Paystack Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-18 09:13+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.2\n"
+"X-Domain: ultimate-membership-pro-paystack"
+
+#: views/admin.php:30 views/admin.php:44
+msgid " Capabilities"
+msgstr ""
+
+#: views/admin.php:53
+msgid " here"
+msgstr ""
+
+#: views/admin.php:15
+msgid " Payment Service "
+msgstr ""
+
+#: classes/Utilities.php:96
+#, php-format
+msgid ""
+"%s is inactive. The %s plugin must be active for %s to work. Please install "
+"& activate %s."
+msgstr ""
+
+#: classes/admin/Main.php:51
+msgid ""
+"Accept safe payments via a variety of regional and international payment "
+"channels"
+msgstr ""
+
+#: views/admin.php:15
+msgid "Activate "
+msgstr ""
+
+#: views/admin.php:145
+msgid "Extra Settings:"
+msgstr ""
+
+#: views/admin.php:128
+msgid ""
+"Go to <b>Settings</b>-><b>API Keys & Webhooks</b> and you will find <code>"
+"Secret Key</code>."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://store.wpindeed.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://store.wpindeed.com/"
+msgstr ""
+
+#: views/admin.php:129
+msgid ""
+"If your business is in <b>test mode</b> you may use <code>Test Secret "
+"Key</code> in order to perform some test payments."
+msgstr ""
+
+#: views/admin.php:130
+msgid "In <code>Webhook URL</code> you may set your webhook:"
+msgstr ""
+
+#: classes/Utilities.php:110
+#, php-format
+msgid "In order to use %s you must have %s starting with v.%s."
+msgstr ""
+
+#: views/admin.php:150
+msgid "Label:"
+msgstr ""
+
+#: views/admin.php:127
+msgid "Log in to "
+msgstr ""
+
+#: views/admin.php:74
+msgid ""
+"Note that when your business is in <b>Live Mode</b>, you may use <b>Live "
+"Secret Key</b>"
+msgstr ""
+
+#: views/admin.php:22
+msgid ""
+"Once all Settings are properly done, activate the Payment Service for "
+"further use."
+msgstr ""
+
+#: views/admin.php:155
+msgid "Order:"
+msgstr ""
+
+#: views/box.php:6
+msgid "Paystack - OffSite payment solution"
+msgstr ""
+
+#: views/admin.php:34 views/admin.php:48
+msgid ""
+"Paystack is made for businesses based in one of the countries <b>South "
+"Africa</b>, <b>Ghana</b>, <b>Nigeria</b>."
+msgstr ""
+
+#: views/admin.php:11
+msgid "PayStack Payment Service"
+msgstr ""
+
+#: classes/admin/Main.php:57
+msgid "Paystack Pro"
+msgstr ""
+
+#: views/admin.php:9
+msgid "PayStack Pro Payment Service"
+msgstr ""
+
+#: views/admin.php:66
+msgid "Paystack Settings"
+msgstr ""
+
+#: views/admin.php:33
+msgid "Paystack support <b>recurring</b> and <b>one-time</b> payments."
+msgstr ""
+
+#: views/admin.php:36 views/admin.php:50
+msgid "Paystack support coupons for one-time payments."
+msgstr ""
+
+#: views/admin.php:37
+msgid "Paystack support coupons for recurring payments."
+msgstr ""
+
+#: views/admin.php:47
+msgid "Paystack support only <b>one-time</b> or <b>limited payments</b>."
+msgstr ""
+
+#: views/admin.php:103
+msgid "Redirect Page after Cancel Payment:"
+msgstr ""
+
+#: views/admin.php:82
+msgid "Redirect Page after Payment:"
+msgstr ""
+
+#: views/admin.php:59 views/admin.php:135 views/admin.php:171
+msgid "Save Changes"
+msgstr ""
+
+#: views/admin.php:71
+msgid "Secret Key"
+msgstr ""
+
+#: views/box.php:7
+msgid "Settings:"
+msgstr ""
+
+#: views/admin.php:164
+msgid "Short Description"
+msgstr ""
+
+#: views/admin.php:35 views/admin.php:49
+msgid ""
+"The bank account of the merchant must be in one of the currencies <code>"
+"ZAR(R)</code>, <code>GHS</code>, <code>NGN</code>."
+msgstr ""
+
+#: views/admin.php:53
+msgid ""
+"To handle recurring Subscriptions management and charge recurring Payments, "
+"you must install the <b>Paystack Pro</b> version, which is available "
+msgstr ""
+
+#: views/admin.php:32 views/admin.php:46
+msgid ""
+"To receive payments using Paystack for the goods or services that you sell, "
+"you require a bank account located on the territory of one of the following "
+"countries: <b>Ghana</b>, <b>Nigeria</b> or <b>South Africa</b>."
+msgstr ""
+
+#. Name of the plugin
+msgid "Ultimate Membership Pro - Paystack Pro"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"With the help of this addon, you may grow your business, membership system, "
+"and collect payments from anywhere in the world."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPIndeed"
+msgstr ""
+
+#: views/admin.php:165
+msgid "write a short description"
+msgstr ""
